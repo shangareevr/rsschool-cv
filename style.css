@@ -51,6 +51,13 @@ html {
    filter:grayscale();
    transition: all 0.5s;
 }
+.title__profession {
+   font-size: 1.2em;
+}
+.title__profession:hover {
+   transform: scale(2);
+   font-style: italic;
+}
 .title__my-photo:hover {
    filter:none;
 }
