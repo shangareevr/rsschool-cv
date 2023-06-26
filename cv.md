@@ -18,6 +18,12 @@ I want to become a front-end developer, because it is interesting for me and req
 - Git, GitHub
 - JavaScript
 
+## Code
+```
+function multiply(a, b){
+return (a * b)
+}
+
 ## Education
 Ufa State Aviation Technical University (USATU)
 
